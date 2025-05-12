@@ -4,7 +4,7 @@ A responsive, one-page marketing website for a fictional software resale startup
 
 ## 🌐 Live Site
 
-[https://softsell.vercel.app](https://softsell.vercel.app) (replace with your actual link)
+[https://soft-sell-dun.vercel.app/](https://soft-sell-dun.vercel.app/)
 
 ---
 
