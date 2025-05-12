@@ -85,5 +85,3 @@ vercel --prod
 
 . Testing & Deployment: 1 hour
 
-. Total: ~9.5 hours
-
